@@ -1,0 +1,11 @@
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\bin\Debug\netcoreapp2.1\ptoject10.deps.json
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\bin\Debug\netcoreapp2.1\ptoject10.runtimeconfig.json
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\bin\Debug\netcoreapp2.1\ptoject10.runtimeconfig.dev.json
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\bin\Debug\netcoreapp2.1\ptoject10.dll
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\bin\Debug\netcoreapp2.1\ptoject10.pdb
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\obj\Debug\netcoreapp2.1\ptoject10.csprojAssemblyReference.cache
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\obj\Debug\netcoreapp2.1\ptoject10.csproj.CoreCompileInputs.cache
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\obj\Debug\netcoreapp2.1\ptoject10.AssemblyInfoInputs.cache
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\obj\Debug\netcoreapp2.1\ptoject10.AssemblyInfo.cs
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\obj\Debug\netcoreapp2.1\ptoject10.dll
+C:\Users\唐珺琪\source\repos\ptoject10\ptoject10\obj\Debug\netcoreapp2.1\ptoject10.pdb

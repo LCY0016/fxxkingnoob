@@ -1,0 +1,11 @@
+C:\Users\唐珺琪\source\repos\homework12\homework12\obj\Debug\homework12.csprojAssemblyReference.cache
+C:\Users\唐珺琪\source\repos\homework12\homework12\obj\Debug\homework12.Properties.Resources.resources
+C:\Users\唐珺琪\source\repos\homework12\homework12\obj\Debug\homework12.csproj.GenerateResource.cache
+C:\Users\唐珺琪\source\repos\homework12\homework12\obj\Debug\homework12.csproj.CoreCompileInputs.cache
+C:\Users\唐珺琪\source\repos\homework12\homework12\bin\Debug\homework12.exe.config
+C:\Users\唐珺琪\source\repos\homework12\homework12\bin\Debug\homework12.exe
+C:\Users\唐珺琪\source\repos\homework12\homework12\bin\Debug\homework12.pdb
+C:\Users\唐珺琪\source\repos\homework12\homework12\obj\Debug\homework12.Form1.resources
+C:\Users\唐珺琪\source\repos\homework12\homework12\obj\Debug\homework12.exe
+C:\Users\唐珺琪\source\repos\homework12\homework12\obj\Debug\homework12.pdb
+C:\Users\唐珺琪\source\repos\homework12\homework12\obj\Debug\homework12.Form2.resources

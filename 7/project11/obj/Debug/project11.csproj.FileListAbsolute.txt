@@ -1,0 +1,10 @@
+C:\Users\唐珺琪\source\repos\project11\project11\bin\Debug\project11.exe.config
+C:\Users\唐珺琪\source\repos\project11\project11\bin\Debug\project11.exe
+C:\Users\唐珺琪\source\repos\project11\project11\bin\Debug\project11.pdb
+C:\Users\唐珺琪\source\repos\project11\project11\obj\Debug\project11.csprojAssemblyReference.cache
+C:\Users\唐珺琪\source\repos\project11\project11\obj\Debug\project11.Form1.resources
+C:\Users\唐珺琪\source\repos\project11\project11\obj\Debug\project11.Properties.Resources.resources
+C:\Users\唐珺琪\source\repos\project11\project11\obj\Debug\project11.csproj.GenerateResource.cache
+C:\Users\唐珺琪\source\repos\project11\project11\obj\Debug\project11.csproj.CoreCompileInputs.cache
+C:\Users\唐珺琪\source\repos\project11\project11\obj\Debug\project11.exe
+C:\Users\唐珺琪\source\repos\project11\project11\obj\Debug\project11.pdb
